@@ -13,6 +13,4 @@ Create a Bash script as follow:
     * count of lines containing search word (second argument)
 * Bonus points if output is sorted by "search word count" column descending.
   
-  Everything is done. 
-  
   **Example how to run the script: ./logs_stats.sh /home/ubuntu/Desktop/Bash/tmp/logs/ specific_word**
